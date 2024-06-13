@@ -1,0 +1,1 @@
+var json_amenity_nursing_home_lalitpur_3 = {"type":"FeatureCollection","name":"amenity_nursing_home_lalitpur_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
